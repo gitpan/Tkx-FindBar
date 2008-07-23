@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Tkx-FindBar
+version:             0.01
+abstract:            Perl Tkx extension for an incremental search toolbar
+license:             ~
+author:              
+    - Michael J. Carman	<mjcarman@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.42_01
+distribution_type:   module
+requires:     
+    Tkx:                           0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3

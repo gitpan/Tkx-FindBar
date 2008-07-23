@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Tkx-FindBar.t
+lib/Tkx/FindBar.pm
+META.yml                                 Module meta-data (added by MakeMaker)
